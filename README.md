@@ -32,5 +32,7 @@ Good To Have:
 4.	Control Placed Orders (Delivery Date, Status of Order, etc) 
 
 Tech Stack:
+
 Frontend: HTML, CSS, JAVASCRIPT
+
 Backend: MySQL, PHP
